@@ -3,7 +3,7 @@
 body {
   font-family: "Roboto", Arial, Helvetica, sans-serif;
   margin: 0;
-  background: #151222;
+  background: #09080c;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
@@ -104,7 +104,7 @@ footer a,
 footer span {
   margin: 0 15px;
   text-decoration: none;
-  color: #fff;
+  color: #be91ce;
   font-size: 15px;
 }
 
